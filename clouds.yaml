@@ -1,0 +1,12 @@
+clouds:
+ divine:
+   region_name: RegionOne
+   auth:
+     username: 'admin'
+     password: bcfdce6c41eff955f66c7c4fa9af3b09d6b73244e0e99
+     project_name: 'admin'
+     user_domain_name: Default
+     project_domain_name: default
+     auth_url: 'https://os-divine.fbk.eu:5000/v3'
+   identity_api_version: '3.0'
+   volume_api_version: '3.0'
